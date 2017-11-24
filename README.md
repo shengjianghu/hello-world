@@ -1,2 +1,3 @@
 # hello-world
-just a new repository
+
+This is a new branch I created just now.
